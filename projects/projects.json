@@ -1,0 +1,65 @@
+[
+  
+  {
+    "name": "Kompa - Anime Mix [AMV/EDIT]",
+    "desc": "An anime AMV edit is a blend of anime scenes synced to music, enhancing the visuals and emotions to match the song's mood.",
+    "image": "instagrammern",
+    "category": "mern",
+    "links": {
+      "view": "https://drive.google.com/file/d/1Pwh6FspauioBg7m444qOvQvNaPQiC5xd/view?usp=drive_link",
+      "code": ""
+    }
+  },
+  {
+    "name": " Website Graphics and UX Design",
+    "desc": "Designed UI/UX for a fictional tech startup using Figma, emphasizing clean aesthetics and interactive features to enhance user engagement and seamless navigation.",
+    "image": "flipkartmer",
+    "category": "mern",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  },
+  {
+    "name": "ResumeGen",
+    "desc": "ReactJS Basic Resume Generator which will generate customized resume in few minutes on your requirements.",
+    "image": "resumegen",
+    "category": "mern",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  },
+  {
+    "name": "React-Projects",
+    "desc": "Full-Stack project dashboard which is collection of projects built on the React library.",
+    "image": "reactprojects",
+    "category": "mern",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  },
+  {
+    "name": "cinematic car 3D render ",
+    "desc": "A cinematic car 3D render in Blender showcases a realistic, high-detail car model with dynamic lighting and camera angles for a movie-like effect.",
+    "image": "flipkartmern",
+    "category": "lamp",
+    "links": {
+      "view": "https://drive.google.com/file/d/1myHJu4siNBCSPNcBWgnuzWtKvyBVbSvi/view?usp=sharing",
+      "code": ""
+    }
+  },
+  {
+    "name": "insta cinematic reel",
+    "desc": "A cinematic animal edit for Instagram uses dramatic lighting, slow-motion, and high-quality visuals to showcase animals in a striking, movie-like style.",
+    "image": "jspro",
+    "category": "basicweb",
+    "links": {
+      "view": "https://jigar-sable.github.io/JavaScript-Projects",
+      "code": "https://github.com/jigar-sable/JavaScript-Projects"
+    }
+  }
+ 
+  
+]
